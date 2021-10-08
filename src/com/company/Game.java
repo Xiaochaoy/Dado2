@@ -25,7 +25,6 @@ public class Game {
     }
 
     public void play() {
-
         System.out.println("Cantidad de dado: " + configGame.getDado());
         System.out.println("Cantidad de jugadores " + configGame.getJugador());
         System.out.println("Tirando...");
